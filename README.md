@@ -79,7 +79,3 @@ GitHub: https://github.com/Nidhi123-ni
 
 ---
 
-
-
-This project is licensed under the **MIT License** and is intended for educational and learning purposes.
-````
