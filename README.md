@@ -1,4 +1,4 @@
-````markdown
+
 # 🧮 BMI Calculator
 
 A simple and interactive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. This web application calculates a user's BMI based on height and weight inputs and instantly displays the corresponding health category.
@@ -31,7 +31,7 @@ A simple and interactive **BMI (Body Mass Index) Calculator** built using **HTML
 
 
 ```
-https://your-Nidhi123-ni.github.io/bmi-calculator/
+ https://nidhi123-ni.github.io/BMI_CALCULATOR/
 ```
 
 ---
